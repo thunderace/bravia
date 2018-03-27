@@ -5,8 +5,6 @@
   "main": "lib/index.js",
   "dependencies": {
     "node-uuid": "^1.4.2",
-    "request": "^2.51.0",
-    "tough-cookie-filestore": "0.0.1",
     "wake_on_lan": "0.0.4"
   },
   "devDependencies": {},
